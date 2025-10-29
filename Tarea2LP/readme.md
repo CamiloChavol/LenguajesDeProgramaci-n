@@ -3,7 +3,7 @@
 **Profesor:** Alonso Inostrosa Psijas  
 **Fecha de Entrega:** 28/10/2025  
 **Integrantes:**
-- *Romily Barria*
+- *Romily Barría*
 - *Camilo Chavol*
 - *Graciela Suárez*
 
@@ -125,4 +125,5 @@ Las gráficas demuestran que la ejecución especulativa requiere un balance ópt
 
 
 ##
+
 
