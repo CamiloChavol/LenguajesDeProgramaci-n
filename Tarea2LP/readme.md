@@ -124,10 +124,4 @@ Las gráficas muestran la comparación del rendimiento realizada en los escenari
 Las gráficas demuestran que la ejecución especulativa requiere un balance óptimo entre el tiempo de decisión y las ramas conputacionales. En estos escenarios, la función de decisión (`CalcularTrazaDeProductoDeMatrices` con n = 30) fue demasiado rápida comprada con las tareas especulativas, haciendo que el costo adicional de la concurrencia (Costo de gestión) superara cualquier potencial beneficio.
 
 
-## Conclusiones
-
-- Se implementó correctamente el **patrón de ejecución especulativa** usando `goroutines`, `channels` y `context.Context` para control de cancelación.  
-- Se evidenció cómo el rendimiento depende del tiempo relativo entre las ramas y la función de decisión.  
-- Aunque en este experimento el **Speedup fue < 1**, el modelo demuestra el potencial de la ejecución especulativa en casos donde la condición sea significativamente costosa.  
-- Se cumplieron los requerimientos de entrada, sincronización, y análisis de rendimiento solicitados en el control.
-
+##
