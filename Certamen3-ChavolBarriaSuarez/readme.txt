@@ -6,7 +6,7 @@ Romily Barría
 Camilo Chavol
 
 Enlace al Repositorio Git:
-https://github.com/CamiloChavol/Certamen3.git
+https://github.com/CamiloChavol/LenguajesDeProgramaci-n.git
 
 -----------------------------------------------------------------
   Descripción del Proyecto
@@ -80,4 +80,5 @@ Una vez que el buscador esté activo, ingrese las siguientes consultas (sin comi
 | billboard               |1040, 1059, 1066, 1073,... | Término simple.                |
 | pitchfork review    |103, 1039, 1054,...            | Intersección (AND Lógico). |
 | billboard hot 100  | 1040, 1059, 1141, 12,...    | Triple Intersección.             |
+
 | salir                     | Cierra el programa.           |                                          |
